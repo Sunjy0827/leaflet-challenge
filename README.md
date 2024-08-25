@@ -2,7 +2,7 @@
 <h2>Create the Earthquake Visualization with Leaflet</h2>
 
 <h3>Backgroud</h3>
-<img src="./Images/1-logo.png" alt="USGS_logo"/>
+<img src="./Images/1-Logo.png" alt="USGS_logo"/>
 <p>
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
