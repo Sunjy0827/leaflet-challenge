@@ -2,7 +2,7 @@
 <h2>Create the Earthquake Visualization with Leaflet</h2>
 
 <h3>Backgroud</h3>
-<img src="Images/1-logo.png" alt="USGS_logo"/>
+<img src="./Images/1-logo.png" alt="USGS_logo"/>
 <p>
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
@@ -39,7 +39,7 @@ Goal:
 
 
 <h4>Part 1: Getting access toekn after signing up mapbox (https://www.mapbox.com/).</h4>
-<img src="Images/mapbox_access_token.png" alt="mapbox_account_access_token"/>
+<img src="./Images/mapbox_access_token.png" alt="mapbox_account_access_token"/>
 
 
 <h4>Part 2: Getting the URL from the website <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php">USGS GeoJSON</a> and understand GeoJSON datastructure</h4>
